@@ -84,13 +84,17 @@ nav a:hover {
 
 /* Services */
 .services {
-    padding: 60px 40px;
+    padding: 100px 40px;
     background: #fff;
 }
 
 .services h2 {
     text-align: center;
     margin-bottom: 40px;
+    color: black;
+}
+.services h3,p {
+    color: black;
 }
 
 .service-box {
@@ -100,8 +104,8 @@ nav a:hover {
 }
 
 .service {
-    background: #f9f9f9;
-    padding: 25px;
+    background: #c7c7c7;
+    padding: 65px;
     border-radius: 8px;
     text-align: center;
 }
@@ -109,12 +113,13 @@ nav a:hover {
 /* Contact */
 .contact {
     padding: 60px 40px;
-    background: #eee;
+    background: #000000;
 }
 
 .contact h2 {
     text-align: center;
     margin-bottom: 30px;
+    color: white;
 }
 
 form {
@@ -122,7 +127,7 @@ form {
     margin: auto;
     background: #fff;
     padding: 30px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 input,
@@ -151,3 +156,10 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
+footer p {
+    color: #fff !important;
+}
+
+
+
