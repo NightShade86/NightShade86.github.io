@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Homepage Styles -->
-    <link rel="icon" type="image/x-icon" href="images/logo-white.png">
+    <link rel="icon" type="image/x-icon" href="images/index/logo-white.png">
     <link rel="stylesheet" href="css/home.css">
 </head>
 <body>
@@ -38,16 +38,19 @@
 
     <div class="service-box">
         <div class="service">
+            <img src="images/index/web-design.jpg">
             <h3>Web Design</h3>
             <p>Custom-coded and WordPress websites.</p>
         </div>
 
         <div class="service">
+            <img src="images/index/hosting.jpg">
             <h3>Web Hosting</h3>
             <p>Secure, fast, and affordable hosting.</p>
         </div>
 
         <div class="service">
+            <img src="images/index/it-support.webp">
             <h3>IT Support</h3>
             <p>Hardware, software, and consultation.</p>
         </div>

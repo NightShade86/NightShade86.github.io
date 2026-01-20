@@ -42,7 +42,7 @@ nav a:hover {
     min-height: 100vh;
 
     background-color: #000; /* BLACK BACKGROUND */
-    background-image: url("../images/header-section-background-test.png");
+    background-image: url("../images/index/header-section-background.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top center;
@@ -109,6 +109,16 @@ nav a:hover {
     border-radius: 8px;
     text-align: center;
 }
+
+.service img {
+    width: 100%;
+    max-width: 220px;
+    height: 140px;
+    object-fit: contain; /* or cover */
+    display: block;
+    margin: 0 auto 15px;
+}
+
 
 /* Contact */
 .contact {
